@@ -1,0 +1,11 @@
+body{
+    background-color:mediumslateblue;
+}
+td{
+    color: aqua;
+}
+img{
+    border-radius: 85px ;
+    height:250px;
+    width:250px;
+}
